@@ -2,7 +2,8 @@
 - 👀 I’m interested in anything that is tech related
 - 🌱 I’m currently learning C/C++
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am currently a fresher student
+- ⚡ Fun fact: I am currently a fresher student at tiet
+  
 
 <!---
 grewalrehmat/grewalrehmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
