@@ -40,7 +40,6 @@
 
 ### 🔥 Current Obsessions
 - 🗡️ Grinding **400+ LeetCode kills**  
-- 🧩 Building **[MedVault-RS](https://github.com/rehmatgrewal)** – AI-powered medical records that slap  
 - 🎯 Prepping for **GSoC ‘26** domination  
 
 ---
