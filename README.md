@@ -1,61 +1,63 @@
-# 💻 Rehmatjot Singh Grewal
+<h1 align="center">⚡ Rehmatjot Singh Grewal ⚡</h1>
 
-> just a dev building his empire—one bug, one repo, one all-nighter at a time.
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500">
+</p>
 
----
-
-### 🚀 Tech Stack
-
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-
-**Frameworks & Tools:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <b>"I don’t just write code. I craft weapons of mass disruption."</b> 🔥
+</p>
 
 ---
 
-### 🧠 Currently Learning
-
-- Rust (because memory safety is hot)
-- Firebase (real-time fire 🔥)
-- SQLite (lightweight, embedded & elite)
-- React (soon... maybe 👀)
-
----
-
-### 🛠 Projects
-
-**📱 Tinder for Anime**  
-Swipe waifus. Get anime recommendations. Build your own story.  
-> _coming soon to ruin your productivity_
+### 🚀 Who Am I?
+- 🦾 Rustacean | 🧠 AI/ML Tinkerer | 🐍 Python Sorcerer  
+- ⚡ Living on **DSA, Systems, and Chaos Theory**  
+- 🌌 Future physicist diving into **Quantum & String Theory**  
+- 💎 *Polished enough to pass FAANG, crazy enough to build my own.*
 
 ---
 
-### 🧸 About Me
-
-- 🎓 First-year CS student  
-- 💻 LeetCode grinder (150+ by EoY is the mission)  
-- 🎯 FAANG prep squad, zero chill
-- 🧑🏼‍💻 Contribute to open-source and college-level hackathons (Working on it)
+### 🛠️ Tech Flex
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,cpp,python,django,react,mysql,linux,docker,git,vscode" />
+</p>
 
 ---
 
-### 💬 Contact
+### 📊 GitHub Glow-Up
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=grewalrehmat&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grewalrehmat&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-let’s collab or roast code:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehmatjot)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rehmatjotgrewal@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grewalrehmat&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
 
 ---
 
-> _“Code like nobody’s watching, debug like everybody is.”_ 
+### 🔥 Current Obsessions
+- 🗡️ Grinding **400+ LeetCode kills**  
+- 🧩 Building **[MedVault-RS](https://github.com/rehmatgrewal)** – AI-powered medical records that slap  
+- 🎯 Prepping for **GSoC ‘26** domination  
+
+---
+
+### 💌 Pull Up On Me
+<p align="center">
+  <a href="https://linkedin.com/in/rehmatgrewal"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:rehmatgrewal@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=⚡+Building+Future-Proof+Systems;💎+Mastering+Rust+Like+a+God;🔥+Turning+Ideas+Into+Legends" alt="Sexy Readme Typewriter">
+</p>
+
+---
+
+<h3 align="center">“Not here to take part. Here to take over.” 🖤</h3>
