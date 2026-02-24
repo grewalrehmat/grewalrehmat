@@ -1,62 +1,107 @@
-<h1 align="center">⚡ Rehmatjot Singh Grewal ⚡</h1>
+<h1 align="center">⚙️ Rehmatjot Singh Grewal</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" />
 </p>
 
 <p align="center">
-  <b>"I don’t just write code. I craft weapons of mass disruption."</b> 🔥
+  <b>Systems Programmer • Rust Developer • AI-Oriented Builder</b><br>
+  Translating mathematical thinking into dependable software.
 </p>
 
----
-
-### 🚀 Who Am I?
-- 🦾 Rustacean | 🧠 AI/ML Tinkerer | 🐍 Python Sorcerer  
-- ⚡ Living on **DSA, Systems, and Chaos Theory**  
-- 🌌 Future physicist diving into **Quantum & String Theory**  
-- 💎 *Polished enough to pass FAANG, crazy enough to build my own.*
-
----
-
-### 🛠️ Tech Flex
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,python,django,react,mysql,linux,docker,git,vscode" />
+  <img src="https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Systems%20Programming-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-GSoC%202026-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interest-Theoretical%20CS%20%7C%20Physics-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📊 GitHub Glow-Up
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grewalrehmat&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grewalrehmat&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grewalrehmat&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+I’m a Computer Science undergraduate working at the intersection of:
 
+* Systems Programming
+* Algorithms & Data Structures
+* AI-assisted Applications
+* Mathematical Foundations of Computing
 
----
-
-### 🔥 Current Obsessions
-- 🗡️ Grinding **400+ LeetCode kills**  
-- 🎯 Prepping for **GSoC ‘26** domination  
+My long-term aim is to pursue graduate research aligned with **theoretical computer science and physics-inspired computation**.
 
 ---
 
-### 💌 Pull Up On Me
+##  Technical Stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/rehmatgrewal"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:rehmatgrewal@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,python,django,postgresql,mysql,linux,docker,git,vscode" />
 </p>
 
 ---
 
+## Current Project — MedVault-RS
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=⚡+Building+Future-Proof+Systems;💎+Mastering+Rust+Like+a+God;🔥+Turning+Ideas+Into+Legends" alt="Sexy Readme Typewriter">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-night.gif" width="420" />
+</p>
+
+**MedVault-RS** is an AI-enhanced medical record system designed with a systems-first mindset.
+
+**Architecture**
+
+* Rust backend (Actix-Web)
+* Diesel ORM + relational database design
+* Secure role-based access
+* Python AI microservice
+* OCR + NLP pipeline for structured medical ingestion
+
+**Objective:** build software that is not just functional — but **reliable, auditable, and performant**.
+
+---
+
+##  Current Focus
+
+* Advancing Rust expertise (async, lifetimes at scale, performance tuning)
+* Solving 400+ DSA problems (LeetCode + Codeforces progression)
+* Studying Operating Systems and low-level design deeply
+
+---
+
+##  GitHub Activity
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grewalrehmat&hide_border=true" height="165"/>
+</p>
+
+
+
+---
+
+##  Areas I Care About
+
+```text
+Correctness > Convenience
+Performance with Safety
+Understanding > Memorizing
+Theory that informs Practice
+```
+
+---
+
+##  Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/rehmatgrewal">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:rehmatjotsinghgrewal@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">“Not here to take part. Here to take over.” 🖤</h3>
+<p align="center">
+  <i>Build carefully. Measure precisely. Understand deeply.</i>
+</p>
