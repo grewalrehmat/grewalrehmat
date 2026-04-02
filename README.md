@@ -92,7 +92,7 @@ Theory that informs Practice
 ##  Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/rehmatgrewal">
+  <a href="https://www.linkedin.com/in/rehmatjot-grewal-1074b830a/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:rehmatjotsinghgrewal@gmail.com">
