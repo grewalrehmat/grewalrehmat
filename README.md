@@ -1,107 +1,61 @@
-<h1 align="center">⚙️ Rehmatjot Singh Grewal</h1>
+yo, I’m Rehmat
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" />
-</p>
+CS student by degree
+systems engineer by questionable life choices
+currently somewhere between:
+    "I should probably use an existing library"
+and
+    "but what if I wrote the entire thing in Rust?"
 
-<p align="center">
-  <b>Systems Programmer • Rust Developer • AI-Oriented Builder</b><br>
-  Translating mathematical thinking into dependable software.
-</p>
+what I do
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Systems%20Programming-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-GSoC%202026-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interest-Theoretical%20CS%20%7C%20Physics-purple?style=for-the-badge"/>
-</p>
+I like understanding what happens underneath the abstraction.
 
----
+Currently messing with:
 
-## About Me
+* Rust
+* distributed systems
+* networking
+* concurrency
+* backend infrastructure
+* OS internals
 
-I’m a Computer Science undergraduate working at the intersection of:
+and enough DSA to occasionally question my life choices.
 
-* Systems Programming
-* Algorithms & Data Structures
-* AI-assisted Applications
-* Mathematical Foundations of Computing
+things I’ve built
 
-My long-term aim is to pursue graduate research aligned with **theoretical computer science and physics-inspired computation**.
+[mini-redis]
+A Redis-ish TCP server in Rust because apparently HashMap wasn’t enough.
 
----
+[MedVault-RS]
+Rust backend + PostgreSQL + Redis + authentication + an OCR/NLP service.
 
-##  Technical Stack
+[more questionable projects →]
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,python,django,postgresql,mysql,linux,docker,git,vscode" />
-</p>
+stack
 
----
+Rust · C++ · Go · Python · TypeScript · Java
 
-## Current Project — MedVault-RS
+Linux · Docker · PostgreSQL · Redis
 
-<p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-night.gif" width="420" />
-</p>
+currently learning
 
-**MedVault-RS** is an AI-enhanced medical record system designed with a systems-first mindset.
+Rust
+ ├── async
+ ├── concurrency
+ ├── networking
+ └── "why does the borrow checker hate me?"
+systems
+ ├── operating systems
+ ├── distributed systems
+ └── low-level networking
 
-**Architecture**
+stats, if you’re into that
 
-* Rust backend (Actix-Web)
-* Diesel ORM + relational database design
-* Secure role-based access
-* Python AI microservice
-* OCR + NLP pipeline for structured medical ingestion
+LeetCode: 1900+
+Codeforces: 1100+
+Problems: 300+
 
-**Objective:** build software that is not just functional — but **reliable, auditable, and performant**.
+⸻
 
----
-
-##  Current Focus
-
-* Advancing Rust expertise (async, lifetimes at scale, performance tuning)
-* Solving 400+ DSA problems (LeetCode + Codeforces progression)
-* Studying Operating Systems and low-level design deeply
-
----
-
-##  GitHub Activity
-
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grewalrehmat&hide_border=true" height="165"/>
-</p>
-
-
-
----
-
-##  Areas I Care About
-
-```text
-Correctness > Convenience
-Performance with Safety
-Understanding > Memorizing
-Theory that informs Practice
-```
-
----
-
-##  Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rehmatjot-grewal-1074b830a/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:rehmatjotsinghgrewal@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Build carefully. Measure precisely. Understand deeply.</i>
-</p>
+Most of my repositories are just increasingly elaborate ways of answering “how does this actually work?”
